@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FireBase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\[UNREAL]Projects\PhotosphereFIX\PhotoSphere\Intermediate\Build\Win64\PhotoSphereEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\[UNREAL]Projects\PhotosphereFIX\PhotoSphere\Plugins\FireBase\Intermediate\Build\Win64\UE4Editor\Development\FireBase\Module.FireBase.cpp.obj"
+"D:\[UNREAL]Projects\PhotosphereFIX\PhotoSphere\Plugins\FireBase\Intermediate\Build\Win64\UE4Editor\Development\FireBase\Module.FireBase.gen.cpp.obj"
+"D:\[UNREAL]Projects\PhotosphereFIX\PhotoSphere\Plugins\FireBase\Intermediate\Build\Win64\UE4Editor\Development\FireBase\PCLaunch.rc.res"
+/OUT:"D:\[UNREAL]Projects\PhotosphereFIX\PhotoSphere\Plugins\FireBase\Intermediate\Build\Win64\UE4Editor\Development\FireBase\UE4Editor-FireBase.lib"

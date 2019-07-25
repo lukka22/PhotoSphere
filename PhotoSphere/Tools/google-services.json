@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "53434520425",
+    "firebase_url": "https://open-house-360.firebaseio.com",
+    "project_id": "open-house-360",
+    "storage_bucket": "open-house-360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53434520425:android:50a3860ff824eec6",
+        "android_client_info": {
+          "package_name": "com.viralityid.openhouse360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53434520425-fnp6aoojojmmbma32cvvs1tmhkn928i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viralityid.openhouse360",
+            "certificate_hash": "7bc60eece513cfc938428925635616fe5056db62"
+          }
+        },
+        {
+          "client_id": "53434520425-lk6r08ksdl69d2rfsgr38k0psfhp30fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viralityid.openhouse360",
+            "certificate_hash": "7e63b38d7b99e15f5e5ab0a44170c06156a5bf85"
+          }
+        },
+        {
+          "client_id": "53434520425-b0v6h7tjmlvnfqs2ll2me0id637d0no1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz_JvV6N2fLh6sA-8kSuEvbX0b4MfwxLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53434520425-b0v6h7tjmlvnfqs2ll2me0id637d0no1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9703751776059241~9951492273"
+    }
+  ],
+  "configuration_version": "1"
+}
